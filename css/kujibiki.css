@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+html, body, h1 {
+    font-family: "AppleMyungjo", "GngSeo";
+    text-align: center;
+}
+ 
+.container {
+    background-color: red;
+    width: 30%;
+    height: 300px;
+    margin: auto;
+    margin-top: 100px;
+    border: double 5px black;
+}
+
+h1 {
+    color: white;
+}
+#btn {
+    width: 150px;
+}
+#results {
+    width: 50%;
+    height: 100px;
+    background-color: white;
+    margin: auto;
+    margin-top: 30px;
+    font-size: 2rem;
+}
